@@ -3,7 +3,6 @@ import Carousel from "react-bootstrap/Carousel";
 import chess from "./images/chess.jpg";
 import learn from "./images/learn2.jpg";
 import music from "./images/music.jpg";
-import film from "./images/film.jpg";
 import film2 from "./images/film2.jpg";
 import "./styles/Index.css";
 

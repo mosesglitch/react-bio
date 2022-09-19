@@ -10,9 +10,6 @@ import {
 } from "mdb-react-ui-kit";
 import Container from "react-bootstrap/Container";
 class Projectlist extends React.Component {
-  constructor(props) {
-    super(props);
-  }
   render() {
     const projectmap = this.props.projectdict.map((project, i) => (
       <MDBCard key={i}>

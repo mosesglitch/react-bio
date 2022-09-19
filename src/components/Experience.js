@@ -57,8 +57,9 @@ class Experience extends React.Component {
             <h6>Responsibilities</h6>
             <p>
               It was an opportunity to broaden my understanding in business
-              intelligence, sales, communication, marketing, project management
-              and data analysis to identify risks and opportunities.
+              processes, marketing, project management, procurement and data
+              analysis . I got a grasp of how different business functions
+              interact to produce intended outcomes.
             </p>
           </li>
         </div>

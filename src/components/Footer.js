@@ -3,7 +3,6 @@ import {
   MDBFooter,
   MDBContainer,
   MDBIcon,
-  MDBInput,
   MDBCol,
   MDBRow,
   MDBBtn,
