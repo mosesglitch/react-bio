@@ -1,0 +1,154 @@
+.certs {
+  text-align: left;
+  color: black;
+}
+#left-tabs-example {
+  background-color: blue;
+}
+.homepage > .newsec > h1 {
+  color: blue;
+  padding: 0;
+}
+.tabrow {
+  font-weight: bold;
+  text-align: left;
+  /* font-size: 30px; */
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  border-right: 100px;
+}
+
+.newsec {
+  padding-inline-start: 20px;
+  padding-inline-end: 10px;
+  background-color: rgba(224, 224, 224, 0.1);
+  padding-top: 50px;
+  font-size: 40;
+  color: black;
+  font-size: 20px;
+}
+.newsec > h6,
+li > h6 {
+  padding-top: 10px;
+  color: rgb(24, 24, 59);
+}
+.flex {
+  color: yellowgreen;
+}
+* {
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+
+.page-container {
+  position: relative;
+  min-height: 100vh;
+}
+.homeassets > H4 {
+  color: blue;
+  padding-top: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif; /* font-weight: 30; */
+  text-align: left;
+
+  padding-bottom: 0px;
+}
+.carousel {
+  padding-bottom: 50px;
+}
+.innercarousel {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+img {
+  height: 250px;
+  width: 300px;
+}
+.content-wrap {
+  padding-bottom: 2.5rem;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 2.5rem;
+}
+
+.navbar {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+body {
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: rgba(224, 224, 224, 0.1);
+}
+.hrs {
+  opacity: 0.04;
+}
+a {
+  color: black;
+}
+h1 {
+  color: rgb(24, 24, 59);
+  /* font-family: cursive; */
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+h5 {
+  color: rgb(35, 83, 226);
+}
+li {
+  list-style: none;
+}
+.newsec {
+  background-color: rgba(224, 224, 224, 0.2);
+  border-radius: 10px;
+  padding: 20px green;
+  padding-bottom: 50px;
+}
+
+.academics > h6 {
+  padding-bottom: 0px;
+  border-bottom: 0px;
+}
+.academics > li {
+  margin-bottom: 0.5em;
+  padding-top: 0px;
+  padding-bottom: 5px;
+}
+.academics > li > span {
+  display: block;
+}
+
+#work > li > span {
+  font-family: cursive;
+  text-align: right;
+  color: teal;
+}
+#work > li > i {
+  font-family: cursive;
+  text-align: left;
+  color: teal;
+}
+#work {
+  padding-bottom: 70px;
+}
+
+.certs > li {
+  list-style-type: square;
+}
+.edu {
+  float: left;
+  padding: 5px;
+  border: 0;
+}
+.experienceul,
+p {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+  list-style-type: square;
+}
